@@ -1,3 +1,16 @@
+ About WebApp: A habit tracker app, where we can define habits and track them.
+
+ Hosted Link : 
+
+ Webiste Images : 
+ 
+![Home Page ](https://github.com/Ashish5692/Habit-Tracker/assets/92576127/ead5a670-3f1b-4930-aae3-cd9450c00407)
+
+![TrackingPage](https://github.com/Ashish5692/Habit-Tracker/assets/92576127/ddafbfc6-b8fe-42fa-b091-3d51ba6970f5)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
